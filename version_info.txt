@@ -1,0 +1,32 @@
+# VSVersionInfo for PyInstaller
+# Generated for TerminalX v34.0 — polsoft.ITS™
+# https://github.com/polsoft/TerminalX
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(34, 0, 0, 0),
+    prodvers=(34, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName',      u'polsoft.ITS\u2122'),
+         StringStruct(u'FileDescription',  u'TerminalX \u2014 Lightweight cross-platform terminal emulator'),
+         StringStruct(u'FileVersion',      u'34.0.0.0'),
+         StringStruct(u'InternalName',     u'TerminalX'),
+         StringStruct(u'LegalCopyright',   u'\u00a9 2024\u20132026 Sebastian Januchowski  (polsoft.ITS\u2122)'),
+         StringStruct(u'LegalTrademarks',  u'polsoft.ITS\u2122'),
+         StringStruct(u'OriginalFilename', u'TerminalX.exe'),
+         StringStruct(u'ProductName',      u'TerminalX'),
+         StringStruct(u'ProductVersion',   u'34.0.0.0'),
+         StringStruct(u'Comments',         u'Built with PyInstaller. MIT License. https://github.com/polsoft/TerminalX')])
+    ]),
+    VarFileInfo([VarStruct(u'Translation', [0x0409, 1200])])
+  ]
+)
