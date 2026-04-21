@@ -30,7 +30,7 @@ from pathlib import Path
 PLUGIN_META = {
     "name":         "psterm_office",
     "version":      "1.0.0",
-    "author":       "psTERM / polsoft.ITS",
+    "author":       "Sebastian Januchowski / psTERM / polsoft.ITS",
     "description":  "Pakiet biurowy: notatnik, kalendarz, todo, kontakty — styl DOS",
     "tags":         ["biuro", "notatki", "kalendarz", "todo", "kontakty", "office"],
     "requires_api": (2, 0),
